@@ -1,2 +1,2 @@
 # react-journey
-A pReact
+A React e commerce project 
